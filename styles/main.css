@@ -1144,7 +1144,7 @@ button[aria-label]::before {
   padding: 0.375rem 0.625rem;
   color: var(--color-light);
   font-weight: 500;
-  background-color: var(-color-dark-20);
+  background-color: var(--color-dark-20);
   border-radius: 0.25rem;
 }
 @media (width <= 90.06125rem) {
