@@ -1552,8 +1552,4 @@ button[aria-label]::before {
   }
 }
 
-.header, main > *:not(:ast-child), .footer {
-  display: none !important;
-}
-
 /*# sourceMappingURL=main.css.map */
